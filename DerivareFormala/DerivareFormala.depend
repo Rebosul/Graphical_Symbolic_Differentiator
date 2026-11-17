@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1768300240 source:c:\users\rares\desktop\r2_batcarares_froicuteodorconstantin_derivareformala\derivareformala\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stack>
+	<cctype>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<graphics.h>
+	"desengrafic.h"
+
+1768221038 c:\users\rares\desktop\r2_batcarares_froicuteodorconstantin_derivareformala\derivareformala\desengrafic.h
+	<graphics.h>
+	<string>
+	<vector>
+	<iostream>
+
+1768300240 source:c:\users\rares\desktop\graphical_symbolic_differentiator-main\graphical_symbolic_differentiator-main\derivareformala\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stack>
+	<cctype>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+	<graphics.h>
+	"desengrafic.h"
+
+1768221038 c:\users\rares\desktop\graphical_symbolic_differentiator-main\graphical_symbolic_differentiator-main\derivareformala\desengrafic.h
+	<graphics.h>
+	<string>
+	<vector>
+	<iostream>
+
